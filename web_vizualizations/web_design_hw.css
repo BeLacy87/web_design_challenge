@@ -24,13 +24,10 @@ h2 {
 #contact-info,
 #landing-image {
 float: left;}
-#landing-image {
-    width: 225px;
-    height: 200px;
-    margin-right: 20px;}
+
 #project-image {
-    width: 100px;
-    height: 100px;
+    width: 140px;
+    height: 140px;
     margin-right: 10px;}
 #contact-info {
   width: 30%;}
@@ -40,18 +37,14 @@ float: left;}
 #figure {
   position: relative;
   background-color: orangered;}
-a{
-    color: #d21034;}
 .footer {
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    width: 30%;
+    
+    width: 100%;
     height: 40px;
-    background-color: grey;
+    background-color: rgb(188, 157, 209);
     color: white;
     text-align: center;
-    border-radius: 10px;}
+    }
 header{
   background-color: orange;}
 #nav-button{
@@ -61,3 +54,9 @@ header{
     background-color:pink;
     justify-self: right;
     }
+.pink{
+    background-color: pink;
+}
+.light{
+    font-size: 15px;
+}
