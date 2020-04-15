@@ -1,0 +1,63 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: #333333;
+    background-color: rgb(188, 157, 209)}
+header {
+    background: #333333;}
+h1 {
+    position: relative;
+    color:#eee;
+    font_size: 28px;
+    left: 40%;}
+h2 {
+    font-size: 24px;}
+.landing_header{
+    padding: 25px;
+}
+.container {
+    background-color:rgb(188, 157, 209);}
+
+#contact-info,
+#landing-image {
+float: left;}
+#landing-image {
+    width: 225px;
+    height: 200px;
+    margin-right: 20px;}
+#project-image {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;}
+#contact-info {
+  width: 30%;}
+#bio-name {
+    position: absolute;
+    top: 20px;}
+#figure {
+  position: relative;
+  background-color: orangered;}
+a{
+    color: #d21034;}
+.footer {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 30%;
+    height: 40px;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    border-radius: 10px;}
+header{
+  background-color: orange;}
+#nav-button{
+  margin-left: 10px;
+  margin-right: 10px;}
+#second_box{
+    background-color:pink;
+    justify-self: right;
+    }
