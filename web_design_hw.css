@@ -60,3 +60,10 @@ header{
 .light{
     font-size: 15px;
 }
+.show{
+    background-color: grey;
+}
+.dropdown-menu{
+    background-color: white;
+}
+
